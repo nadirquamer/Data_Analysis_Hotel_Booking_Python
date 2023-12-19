@@ -20,6 +20,10 @@ offer thorough business advice to address this problem.
 - Pandas- Cleaning and analzing
 - Matplotlip and Seaborn- Visualization and statistical graph
 
+### Analysis performed
+
+-  Please find the notebook [here](https://github.com/nadirquamer/Data_Analysis_Hotel_Booking_Python/blob/main/Data_Analysis_Hotel_Booking.ipynb)
+
 ### Final Report
 
 - Please find the final report [here](https://github.com/nadirquamer/Data_Analysis_Hotel_Booking_Python/blob/main/Hotel%20Booking%20Report.pdf)
