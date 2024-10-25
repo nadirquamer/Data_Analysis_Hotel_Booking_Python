@@ -7,6 +7,7 @@ less than ideal hotel room use.
 
 Therefore, lowering cancellation rates is both hotels' primary goal to increase their efficiency in generating revenue, and for us to
 offer thorough business advice to address this problem.
+
 ### Steps Followed
 
 - Created a problem statement
